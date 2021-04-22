@@ -11,7 +11,6 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 public class FoodAdapter extends ArrayAdapter<Food>{
-
     private ArrayList<Food> food;
     private Context context;
     private TextView tvFoodName;
